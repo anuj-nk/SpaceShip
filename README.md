@@ -92,4 +92,4 @@ A complete repository should include:
 
 ## Summary
 
-Star Run demonstrates a complete embedded system that integrates motion sensing, filtering, user interaction, visual and audio feedback, and custom enclosure fabrication. The project showcases embedded programming, hardware integration, and applied design skills suitable for graduate level coursework.
+Star Run represents a full end to end embedded project that brings together sensing, input handling, display output, user feedback, and enclosure design. Through building the device, I gained practical experience with accelerometer calibration, gesture detection, real time game logic, hardware integration, and iterative testing. The project highlights how individual components can be combined into a functional handheld system and provides a clear example of how embedded software and physical design work together to create an interactive experience.
